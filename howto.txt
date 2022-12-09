@@ -1,0 +1,12 @@
+npx create-next-app onboardy
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+add stuff in tailwind.config.js
+add stuff in styles/global.css
+
+
+npm run dev
+
+
+
+
